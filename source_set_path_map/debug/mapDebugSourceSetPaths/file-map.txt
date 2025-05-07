@@ -1,0 +1,34 @@
+com.prabhu.womensafetyapp-core-runtime-2.2.0-0 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\09558f1b9b56a339611f1f3ff5685123\transformed\core-runtime-2.2.0\res
+com.prabhu.womensafetyapp-material-1.12.0-1 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\0f99c4435ab0119dc9a8271893148438\transformed\material-1.12.0\res
+com.prabhu.womensafetyapp-appcompat-1.7.0-2 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\183ebbc8ed821348f80a6d36d20b75e3\transformed\appcompat-1.7.0\res
+com.prabhu.womensafetyapp-lifecycle-viewmodel-2.6.2-3 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\22a8ec787f47654381fd448fc0dedaa1\transformed\lifecycle-viewmodel-2.6.2\res
+com.prabhu.womensafetyapp-jetified-emoji2-views-helper-1.3.0-4 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\2a6650b10c0a7c5123854406469e0b23\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.prabhu.womensafetyapp-jetified-viewpager2-1.0.0-5 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\31bef4511f5078c7c2e6419f95104519\transformed\jetified-viewpager2-1.0.0\res
+com.prabhu.womensafetyapp-jetified-emoji2-1.3.0-6 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\37114162b03bece98b93a1e799d091e1\transformed\jetified-emoji2-1.3.0\res
+com.prabhu.womensafetyapp-lifecycle-runtime-2.6.2-7 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\39199f8ba8b037a40395507dbae61e10\transformed\lifecycle-runtime-2.6.2\res
+com.prabhu.womensafetyapp-jetified-profileinstaller-1.4.0-8 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\3d905eec5c7e588801f8a288d0868c14\transformed\jetified-profileinstaller-1.4.0\res
+com.prabhu.womensafetyapp-jetified-lifecycle-process-2.6.2-9 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\3dc3f1600ada8cd59e8f9c6f0910098a\transformed\jetified-lifecycle-process-2.6.2\res
+com.prabhu.womensafetyapp-fragment-1.5.4-10 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\48bafeae36779f423d74bd8112b18853\transformed\fragment-1.5.4\res
+com.prabhu.womensafetyapp-jetified-savedstate-1.2.1-11 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\5a5acbeb50e23a4e26555066b47e8e5a\transformed\jetified-savedstate-1.2.1\res
+com.prabhu.womensafetyapp-jetified-appcompat-resources-1.7.0-12 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\62775f09f78b38b2ea858f8dbdf5251f\transformed\jetified-appcompat-resources-1.7.0\res
+com.prabhu.womensafetyapp-lifecycle-livedata-core-2.6.2-13 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\72cdbfa9b3887f6c05c6acd092da487c\transformed\lifecycle-livedata-core-2.6.2\res
+com.prabhu.womensafetyapp-lifecycle-livedata-2.6.2-14 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\810f9500d14f632b71cb6cf0c1a8ab7b\transformed\lifecycle-livedata-2.6.2\res
+com.prabhu.womensafetyapp-jetified-lifecycle-viewmodel-savedstate-2.6.2-15 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\9c5769d36f2beda9b6300d22643aeb4f\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.prabhu.womensafetyapp-drawerlayout-1.1.1-16 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\9ddc7cd873f4736a19a8d5e2b8d5faa4\transformed\drawerlayout-1.1.1\res
+com.prabhu.womensafetyapp-jetified-startup-runtime-1.1.1-17 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\a0ec65df7716ba7e8224c513bc808ebf\transformed\jetified-startup-runtime-1.1.1\res
+com.prabhu.womensafetyapp-core-1.13.0-18 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\a5429f7b20c607b890f08b5283ad4ec0\transformed\core-1.13.0\res
+com.prabhu.womensafetyapp-cardview-1.0.0-19 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\a60c159c7ca9eb3593d57ef6199673cc\transformed\cardview-1.0.0\res
+com.prabhu.womensafetyapp-recyclerview-1.1.0-20 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\bef938e02d3b77a5a565924eddcd5232\transformed\recyclerview-1.1.0\res
+com.prabhu.womensafetyapp-jetified-annotation-experimental-1.4.0-21 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\c1503fb1b15a3e5bcef9955eb7244f7c\transformed\jetified-annotation-experimental-1.4.0\res
+com.prabhu.womensafetyapp-jetified-core-ktx-1.13.0-22 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\d4b4a50b77f462c1bb285b19a0eac3ab\transformed\jetified-core-ktx-1.13.0\res
+com.prabhu.womensafetyapp-jetified-activity-1.8.0-23 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\dcc621fb85d43747f951a9e77ee10703\transformed\jetified-activity-1.8.0\res
+com.prabhu.womensafetyapp-transition-1.5.0-24 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\de8c69530a4793e38d71fa3816f0c5cc\transformed\transition-1.5.0\res
+com.prabhu.womensafetyapp-coordinatorlayout-1.1.0-25 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\f7e9ae46787c47ae351e8a61be234d65\transformed\coordinatorlayout-1.1.0\res
+com.prabhu.womensafetyapp-constraintlayout-2.2.1-26 C:\Users\Varsha Kaushik\.gradle\caches\8.11.1\transforms\ff7756e850ca45f821e92121a947cfed\transformed\constraintlayout-2.2.1\res
+com.prabhu.womensafetyapp-pngs-27 D:\Women-Safety-App-Rebuilt\app\build\generated\res\pngs\debug
+com.prabhu.womensafetyapp-resValues-28 D:\Women-Safety-App-Rebuilt\app\build\generated\res\resValues\debug
+com.prabhu.womensafetyapp-mergeDebugResources-29 D:\Women-Safety-App-Rebuilt\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.prabhu.womensafetyapp-mergeDebugResources-30 D:\Women-Safety-App-Rebuilt\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.prabhu.womensafetyapp-debug-31 D:\Women-Safety-App-Rebuilt\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.prabhu.womensafetyapp-debug-32 D:\Women-Safety-App-Rebuilt\app\src\debug\res
+com.prabhu.womensafetyapp-main-33 D:\Women-Safety-App-Rebuilt\app\src\main\res
